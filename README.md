@@ -2,7 +2,7 @@
 # Welcome to Harmful Gases!
 
 ## Hello! Currently, there are one in our team who support the application:
- 1. Alex Vasilev Milchov - web application development, testing, configuration and management.
+ 1. Alex Vasilev Milchov - application development, testing, configuration and management.
 
 ## Summary
 
